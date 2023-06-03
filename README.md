@@ -1,7 +1,4 @@
 ### Hi there 👋, I'm Alicja!
-
-🔭 I’m working as a React Native & Android Developer.
-
 ---
 
 ### I specialize in:
